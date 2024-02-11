@@ -9,3 +9,4 @@
 /Users/naznehiralicavus/RiderProjects/DeveloperCamp2024Assignments/MaskeTakip/Entities/obj/Debug/net8.0/refint/Entities.dll
 /Users/naznehiralicavus/RiderProjects/DeveloperCamp2024Assignments/MaskeTakip/Entities/obj/Debug/net8.0/Entities.pdb
 /Users/naznehiralicavus/RiderProjects/DeveloperCamp2024Assignments/MaskeTakip/Entities/obj/Debug/net8.0/ref/Entities.dll
+/Users/naznehiralicavus/RiderProjects/DeveloperCamp2024Assignments/MaskeTakip/Entities/obj/Debug/net8.0/Entities.sourcelink.json
